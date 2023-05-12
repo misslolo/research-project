@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+
+<head>
+<meta charset="utf-8">
+<title>Hacking</title>
+<link rel="stylesheet" href="style.css">
+<a class = "home" href="./home.html">Home</a>
+<a class = "home1"href="./task 1.html">Task 1</a>
+<a class = "home2"href="./task 2.html">Task 2</a>
+<a class = "home3"href="./task 3.html">Task 3</a>
+<a class = "home4"href="./appendix.html"> Appendix</a>
+<a class = "home5" href = "./references.html"> References&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a>
+
+</head>
+<body>
+	<h1>What is the effect of hacking.</h1>
+<!--<a href="#maincontent" id="skip" class="skip-link">Skip to main content</a>-->
+
+<main id="maincontent">
+<p>Web accessibility has become more and more crucial over time, however some sections of the population can still not access some websites at all. This is because of a variety of factors, including the fact that most web developers typically lack experience to make sure their code complies with accessibility standards and aren't properly informed about the best methods for rapidly and simply identifying accessibility issues utilising various accessibility evaluation methods (AEMs).
+	There are other difficulties encountered during the development and design of websites. Before testing and analysing accessibility, website development personnel confront a number of difficulties, which includes a lack of understanding and enthusiasm, lack of awareness when designing and developing websites as well as a shortage of specialised training programmes that could address accessibility issues. 
+	Website development requires a collaborative effort from content producers, designers, developers, and a project manager. Each member of this team has duties to the web community that are tied to his abilities to produce an accessible website. But, the project manager has the responsibility of overseeing strong compliance with business targets, so there will be no changes to accessibility without his support. It is the responsibility of project managers to emphasize to their teams the importance of web accessibility as well as how it benefits society at large on both a commercial and societal level. Some user may be discriminated as a result of lack of accessibility, which would prevent them from using the website.
+	Despite the fact that accessibility rules and tools can be helpful in identifying accessibility issues, user testing should be used wherever it is necessary to validate the results. In user testing, real people are enlisted to participate in formal or informally trials in which they are asked individually to navigate a website with a specific purpose in mind.
+	
+</p>
+ </main>
+<footer>
+	 Research project cynthia tanyi 2022-2023<
+</footer>
+</body>
+</html>

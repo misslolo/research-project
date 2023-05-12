@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+
+<head>
+<meta charset="utf-8">
+<title>Hacking</title>
+<link rel="stylesheet" href="style.css">
+<a class = "home" href="./home.html">Home</a>
+<a class = "home1"href="./task 1.html">Task 1</a>
+<a class = "home2"href="./task 2.html">Task 2</a>
+<a class = "home3"href="./task 3.html">Task 3</a>
+<a class = "home4"href="./appendix.html"> Appendix&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	&emsp;&emsp;&emsp;&emsp;&emsp;
+	&emsp;&emsp;&emsp;&emsp;&emsp;
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</a>
+	<br>
+
+
+</head>
+<body>
+	<h1>What is the effect of hacking.</h1>
+<!--<a href="#maincontent" id="skip" class="skip-link">Skip to main content</a>-->
+
+<main id="maincontent">
+<p>
+	To achieve this research, interview questions were asked and responses were obtained<br><br>
+
+	Question 1: Can you describe the immediate actions your organization took after discovering the hack, and how effective were they in mitigating the damage caused?<br>
+	Following the discovery of the hack, our organisation promptly took multiple steps to control the breach and reduce the harm. 
+	We isolated and took offline the vulnerable systems to prevent future penetration, and we conducted a thorough investigation to assess the scope of the incident and locate any exposed data. 
+	We also hired a cybersecurity firm to help with the investigation and remediation. These efforts were successful in minimising the harm caused by the hack, and we were able to quickly recover our systems and restart normal operations.<br><br>
+
+
+	question 2: What measures has your organization implemented to prevent future security breaches, and how have these measures evolved since the hack occurred?<br>
+	Since the hack, our organisation has taken a number of steps to improve its cybersecurity posture and avoid future breaches.
+	 We've increased our investment in security technology and tools like intrusion detection and prevention systems, data loss prevention solutions, and sophisticated threat analytics. We have also improved our employee training and awareness programmes, which now include required security awareness training for all employees. Furthermore, we have put in place more stringent security rules and processes, such as tighter access limits, more frequent vulnerability assessments, and incident response plans.
+	As we continue to analyse and improve our security posture, these measures have evolved over time.<br><br>
+
+	question 3: How has the hack affected your organization's reputation, and what steps have you taken to restore trust with customers, partners, and other stakeholders?<br>
+	The incident had a substantial impact on our organization's reputation, and we acknowledge the need of regaining trust with our customers, partners, and other stakeholders. We have been honest about the breach and have contacted with affected parties on a regular basis, providing updates on the investigation and remedial activities. We have also established additional security procedures and controls to reassure our stakeholders that we are taking the appropriate efforts to prevent future breaches. In addition, to help lessen the possible impact of the compromise, 
+	we have provided free credit monitoring and identity theft protection services to affected individuals.<br><br>
+
+	question 4: Can you walk me through any changes in budget, resources, or personnel that have been made in response to the hack, and how have these changes impacted your organization's overall security posture?<br>
+	We increased our cybersecurity budget and invested in additional security technologies and tools, such as advanced threat analytics and data loss prevention solutions, in response to the hack. We also added cybersecurity personnel, such as security analysts and incident response specialists, to improve our security posture.<br><br>
+	
+	question 5: What have you learned from this experience, and how has it influenced your organization's approach to cybersecurity?<br>
+	We learnt a lot from this event, and it has informed our approach to cybersecurity in a variety of ways.
+	 We understand the value of proactive threat information and continuous monitoring and have prioritised them in our security approach. 
+	 We've also expanded our investment in security technologies and staff, and we've put more stringent security policies and processes in place. Furthermore, we have prioritised employee training and awareness, recognising that our employees may be both our greatest asset and our greatest vulnerability.<br><br>
+
+<h3>In summary to this research</h3>
+<p>
+	
+These responses highlight the actions taken by an organization after being hacked, including immediate actions to contain the breach, 
+implementing measures to prevent future breaches, restoring trust with customers and stakeholders, learning from the experience, and making changes to the budget, 
+resources, and personnel to enhance the organization's overall security posture. These actions demonstrate the importance of taking proactive measures to prevent cyberattacks and continuously 
+improving cybersecurity strategies to protect against future threats.
+</p>
+	</p>
+</main>
+<footer>
+	 Research project cynthia tanyi 2022-2023
+</footer>
+</body>
+</html>

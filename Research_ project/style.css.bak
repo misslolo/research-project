@@ -1,0 +1,50 @@
+h1{
+	text-align: center;
+	color: white;
+}
+body {
+	min-height: 100vh;
+	width: 100%;
+	background-image: url(kali.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	position: relative;
+	
+}
+a.home{
+	float: left;
+}
+a.home1{
+	float: left;
+}
+a.home2{
+	float: left;
+}
+a.home3{
+	float: left;
+}
+a.home4{
+	float: left;
+}
+a.home5{
+	float: left;
+}
+
+ a{
+	padding: 3% 5%;
+    color:white;
+    text-decoration: none;
+	justify-content: space-between;
+	align-items: center;
+  } 
+  
+
+footer{
+	color: white;
+}
+
+
+p{
+	color: #4d4dff;
+}
